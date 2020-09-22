@@ -56,3 +56,23 @@ body {}
     flex: 5;
     text-align: end;
 }
+
+.main-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.title{
+    margin-top: 50px;
+    padding-top: 100px;
+    text-align: left;
+    width: 35%;
+    font-style: italic;
+}
+
+.title-img {
+   text-align: center;
+   padding-top: 30px;
+}

@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {}
+
+.header {
+    display: flex;
+    border-bottom: .5px solid gainsboro;
+    padding: 5px 20px;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+
+}
+
+.header i {
+    padding: 0 20px 0 0;
+}
+
+.header button {
+    background-color: #326891;
+    color: #fff;
+    border: .5px solid #000;
+    padding: .6rem 1rem;
+    border-radius: 4px;
+    font-size: x-small;
+    font-weight: bolder;
+}
+
+.search-btn {
+    border: none !important;
+    color: #000 !important;
+    padding: 0px !important;
+    background-color: transparent !important;
+}
+
+
+.header .col_1 {
+
+    flex: 4;
+}
+
+.header .col_2 {
+    flex: 1.5;
+    font-weight: bolder;
+    font-size: smaller;
+}
+
+.header col_2 svg {}
+
+.header .col_3 {
+    flex: 5;
+    text-align: end;
+}

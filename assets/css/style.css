@@ -14,7 +14,7 @@ body {}
     align-items: center;
     position: fixed;
     width: 100%;
-
+    background-color: #fff;
 }
 
 .header i {
@@ -65,24 +65,62 @@ body {}
 
 .title {
     padding-top: 100px;
-    width: 35%;   
-    font-style: italic; 
+    width: 35%;
+    font-style: italic;
 }
 
-.title-img {    
-    width: 100%;   
-    text-align: center;    
+.title-img {
+    width: 100%;
+    text-align: center;
     padding: 20px;
 }
 
 .img-size {
-    width: 60%;
+    width: 70%;
 }
 
 .title-fig-cap {
     width: 50%;
     font-family: sans-serif;
-    color: dimgray;   
+    color: dimgray;
     text-align: justify;
     margin-left: 265px;
+}
+
+.stories-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.details {
+    display: flex;
+    justify-content: space-between;
+}
+
+.details .socials {
+    flex: 2;
+    text-align: end;
+}
+
+.details .dates {
+    flex: 5;
+    text-align: start;
+}
+
+.details a {
+    text-decoration: none;
+}
+
+.article {
+    width: 50%;
+}
+
+.article p {
+    margin-top: 5px;
+    font-family: nyt-imperial, georgia, "times new roman", times, serif;
+    font-size: large;
+    font-weight: 500;
+    line-height: 2em;
 }

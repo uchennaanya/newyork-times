@@ -56,3 +56,33 @@ body {}
     flex: 5;
     text-align: end;
 }
+
+.main-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    padding-top: 100px;
+    width: 35%;   
+    font-style: italic; 
+}
+
+.title-img {    
+    width: 100%;   
+    text-align: center;    
+    padding: 20px;
+}
+
+.img-size {
+    width: 60%;
+}
+
+.title-fig-cap {
+    width: 50%;
+    font-family: sans-serif;
+    color: dimgray;   
+    text-align: justify;
+    margin-left: 265px;
+}

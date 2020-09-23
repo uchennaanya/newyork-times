@@ -125,21 +125,44 @@ body {}
     line-height: 2em;
 }
 
-.inflation {    
-    display: flex;   
+.theory {
+    margin: 50px 0 50px 0;
+    width: 70%;
+
+}
+
+.author {
+    width: 70%;
+}
+
+.author h2 {}
+
+.inflation {
+    display: flex;
     flex-direction: column;
     align-items: center;
-   
+
+}
+
+.advert {
+    width: 100%;
+    background-color: #F8F8F8;
+    height: 300px;
+}
+
+.advert p {
+    text-align: center;
+    margin-top: 70px;
 }
 
 .grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr); 
+    grid-template-columns: repeat(4, 1fr);
     grid-template-rows: initial;
     grid-column-gap: 40px;
     grid-row-gap: 140px;
-    
-    width:70%;   
+
+    width: 70%;
     align-items: center;
     text-align: center;
 
@@ -149,13 +172,24 @@ body {}
 .grid p {
     text-align: start;
     font-size: small;
-    
+
 }
 
-.inflation-img {           
+.inflation-img {
     text-align: center;
 }
 
 .image-inf {
-    width: 70%;    
+    width: 70%;
+}
+
+.jumbo img {
+    width: 50%;
+    text-align: center;
+    margin-left: 350px;
+}
+
+.jumbo figcaption {
+    width: 50%;
+    margin-left: 350px;
 }

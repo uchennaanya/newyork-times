@@ -58,10 +58,12 @@ body {}
 }
 
 .main-section {
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
+
 
 .title {
     padding-top: 100px;
@@ -87,11 +89,35 @@ body {}
     margin-left: 265px;
 }
 
+.aside-wrapper {
+    width: 100%;
+}
+
 .stories-container {
+    width: 70%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+}
+
+.aside-wrapper {
+    width: 70%;
+    float: left;
+}
+
+.article-aside {
+    width: 70%;
+    float: left;
+}
+
+.editors-pick-main {
+    width: 30%;
+    float: left;
+}
+
+.editors-pick-main img {
+    width: 100%;
 }
 
 .larry {

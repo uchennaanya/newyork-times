@@ -94,6 +94,16 @@ body {}
     justify-content: center;
 }
 
+.larry {
+    margin: 30px 0 40px 190px;
+    padding: 10px;
+}
+
+.larry hr {
+    width: 5%;
+    margin-bottom: 15px;
+}
+
 .details {
     display: flex;
     justify-content: space-between;
@@ -148,6 +158,30 @@ body {}
     width: 100%;
     background-color: #F8F8F8;
     height: 300px;
+    margin: 30px 0;
+}
+
+.info {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.info a {
+    text-decoration: none;
+}
+
+.info hr {
+    width: 12%;
+    margin-left: 300px;
+
+}
+
+.info h5 {
+    padding-bottom: 20px;
+}
+
+.info h4 {
+    margin-top: 20px;
 }
 
 .advert p {
@@ -195,7 +229,7 @@ body {}
 }
 
 .bottom-wrapper {
-    width: 100%;    
+    width: 100%;
 }
 
 .bottom {
@@ -222,27 +256,109 @@ body {}
     text-align: center;
 }
 
-.more-grid img{
+.more-grid img {
     width: 100%;
 }
 
 
 
-.fig-wrapper {    
+.fig-wrapper {
     display: flex;
     flex-direction: row;
 }
 
-.fig-wrapper img{
+.fig-wrapper img {
     width: 100%;
 }
 
 .most-popular {
     width: 30%;
-    float: left;    
+    float: left;
     margin-left: 50px;
 }
 
 .most-popular a {
     text-decoration: none;
+}
+
+.utube {
+    width: 100%;
+    height: 350px;
+    margin: 30px 0 5px 0;
+}
+
+.footer_wrapper {
+    border-top: 2px inset;
+    margin: 50px 100px 40px 100px;
+    padding-top: 20px;
+}
+
+.footer_wrapper h4 {
+    padding-bottom: 10px;
+}
+
+.footer_wrapper a {
+    color: #000;
+}
+
+.footer_wrapper span {
+    float: right;
+    padding-bottom: 100px;
+    display: inline-block;
+}
+
+.custom_footer {
+    align-items: center;
+    display: flex;
+    align-content: right;
+    justify-content: space-between;
+}
+
+.custom_footer a {
+    text-decoration: none;
+    display: block;
+    line-height: 2em;
+    color: #000;
+}
+
+.footer_col_2 {
+    width: 200px;
+    padding-bottom: 20px;
+    font-weight: bolder;
+    font-size: smaller;
+}
+
+.custom_footer .col {
+    flex: 1;
+}
+
+.foot_6 {
+    border-left: 0.3px solid #ccc;
+    padding-left: 15px;
+    font-weight: 900;
+}
+
+.foot_6 hr {
+    color: #ccc;
+}
+
+.foot_logo {
+    width: 15px;
+    margin-right: 5px;
+    height: 16px;
+
+}
+
+.last_footer {
+    display: flex;
+    padding: 50px 100px 15px 100px;
+    justify-content: space-between;
+}
+
+.last_footer a {
+    text-decoration: none;
+    font-size: 12px;
+    color: #000;
+
+
 }

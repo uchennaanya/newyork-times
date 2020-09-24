@@ -57,9 +57,9 @@ The features of this project are listed as below:
 
 👤 **Dipesh Bajgain**
 
-- GitHub: [@dipbazz](https://github.com/dipbazz)
-- Twitter: [@dipbazz](https://twitter.com/dipbazz)
-- LinkedIn: [Dipesh Bajgain](https://www.linkedin.com/in/dipbazz/)
+- GitHub: [@uchennaanya](https://github.com/uchennaanya)
+- Twitter: [@martinsanya19](https://twitter.com/martinsanya19)
+- LinkedIn: [Uchenna Anya](https://www.linkedin.com/in/uchenna-anya/)
 
 ## 🤝 Contributing
 

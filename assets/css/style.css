@@ -4,8 +4,6 @@
     padding: 0;
 }
 
-body {}
-
 .header {
     display: flex;
     border-bottom: .5px solid gainsboro;
@@ -38,9 +36,7 @@ body {}
     background-color: transparent !important;
 }
 
-
 .header .col_1 {
-
     flex: 4;
 }
 
@@ -50,15 +46,12 @@ body {}
     font-size: smaller;
 }
 
-.header col_2 svg {}
-
 .header .col_3 {
     flex: 5;
     text-align: end;
 }
 
 .main-section {
-
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -67,7 +60,6 @@ body {}
 .editors_pic {
     display: flex;
     justify-content: center;
-    ;
 }
 
 .article_editors_pic {
@@ -99,7 +91,6 @@ body {}
 }
 
 .jpldate {
-    /* text-align: right; */
     font-size: 10px;
     color: dimgray;
 }
@@ -122,7 +113,6 @@ body {}
     height: 100px;
     width: 100px;
 }
-
 
 .title {
     padding-top: 100px;
@@ -194,11 +184,6 @@ body {}
     margin-bottom: 15px;
 }
 
-.details {
-    /* display: flex; */
-    justify-content: space-between;
-}
-
 .details small {
     font-size: 12px;
     line-height: 1.5em;
@@ -258,9 +243,7 @@ body {}
 .theory {
     margin: 50px 0 50px 0;
     width: 70%;
-
 }
-
 
 .author {
     display: flex;
@@ -274,7 +257,6 @@ body {}
 
 .author .name {
     flex: 5 2 50%;
-
 }
 
 .author .dates {
@@ -295,13 +277,10 @@ body {}
     background-color: #ccc;
 }
 
-.author h2 {}
-
 .inflation {
     display: flex;
     flex-direction: column;
     align-items: center;
-
 }
 
 .advert {
@@ -323,7 +302,6 @@ body {}
 .info hr {
     width: 12%;
     margin-left: 300px;
-
 }
 
 .info h5 {
@@ -345,18 +323,15 @@ body {}
     grid-template-rows: initial;
     grid-column-gap: 40px;
     grid-row-gap: 140px;
-
     width: 70%;
     align-items: center;
     text-align: center;
-
     margin-top: -420px;
 }
 
 .grid p {
     text-align: start;
     font-size: small;
-
 }
 
 .inflation-img {
@@ -396,8 +371,6 @@ body {}
     padding-right: 20px;
 }
 
-
-
 .more {
     display: flex;
     flex-direction: column;
@@ -423,8 +396,6 @@ body {}
 .more-grid img {
     width: 100%;
 }
-
-
 
 .fig-wrapper {
     display: flex;
@@ -502,7 +473,6 @@ body {}
 }
 
 .footer_wrapper span {
-    float: right;
     padding-bottom: 100px;
     display: inline-block;
 }
@@ -570,26 +540,4 @@ body {}
     text-decoration: none;
     font-size: 12px;
     color: #000;
-}
-
-.css-1d50gvk {
-    align-self: center;
-    background-color: transparent;
-    border: none;
-    bottom: 0.05rem;
-    color: rgb(102, 102, 102);
-    cursor: pointer;
-    display: inline-flex;
-    flex-direction: column;
-    font-family: nyt-franklin, helvetica, arial, sans-serif;
-    font-size: 0.75rem;
-    font-weight: 500;
-    height: 25px;
-    line-height: 1rem;
-    margin-left: 2px;
-    min-width: 24px;
-    overflow: visible;
-    padding: 0px 0px 4px;
-    position: relative;
-    text-transform: uppercase;
 }

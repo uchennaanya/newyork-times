@@ -78,7 +78,7 @@ body {}
 .col a {
     text-decoration: none;
     color: #000;
-    padding-top: 30px;
+    padding-top: 0px;
 }
 
 .col {
@@ -361,7 +361,7 @@ body {}
 }
 
 .bottom {
-    width: 60%;
+    width: 63%;
     float: left;
     margin-left: 60px;
     padding-left: 20px;
@@ -373,9 +373,12 @@ body {}
 .more {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    margin-top: 20px;
+    align-items: center;    
 }
+
+.more-title {
+    margin-left: -610px;
+} 
 
 .more-grid {
     display: grid;
@@ -386,6 +389,7 @@ body {}
     width: 100%;
     align-items: center;
     text-align: center;
+    margin-top: 20px;
 }
 
 .more-grid img {
@@ -404,21 +408,24 @@ body {}
 }
 
 .most-popular {
-    width: 30%;
+    width: 25%;
     float: left;
-
+    padding-right: 50px;
 }
 
 .most-popular a {
     text-decoration: none;
     color: #121212;
     font-family: georgia, "times new roman", times, serif;
-    font-size: 20px;
-    font-weight: 500;
+    font-size: 15px;
+    font-weight: 500;    
+    padding-bottom: 10px;
 }
 
 .most-popular div {
     margin-top: 10px;
+    margin-bottom: 10px;     
+    line-height: 20px;   
 }
 
 .test:after {
@@ -433,6 +440,8 @@ body {}
 .popular-font {
     font-family: sans-serif;
     margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 14px;
 }
 
 .utube {
@@ -462,7 +471,7 @@ body {}
 }
 
 .custom_footer {
-    align-items: center;
+    align-items: start;
     display: flex;
     align-content: right;
     justify-content: space-between;

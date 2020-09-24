@@ -81,10 +81,27 @@ body {}
     padding-top: 0px;
 }
 
-.col {
-    background-color: #f1f1f1f1;
+.pic_names {
+    text-align: left;
+}
+
+.ss .col {
+    background-color: #fffefe;
     padding: 4px;
     margin: 4px;
+}
+
+.jpl {
+    text-align: right;
+    font-size: 10px;
+    margin: 3px 0;
+    color: dimgray;
+}
+
+.jpldate {
+    /* text-align: right; */
+    font-size: 10px;
+    color: dimgray;
 }
 
 .pic {
@@ -162,9 +179,14 @@ body {}
     width: 100%;
 }
 
+.editor img {
+    margin-right: 10px;
+}
+
 .larry {
     margin: 30px 0 40px 0;
-    /* padding: 10px; */
+    width: 70%;
+    font-weight: 500;
 }
 
 .larry hr {
@@ -346,13 +368,19 @@ body {}
 }
 
 .jumbo {
-    width: 100%;
+    text-align: center;
+    width: 50%;
     margin: 30px 0 10px 0;
+}
+
+.jumbo img {
+    width: 100%;
 }
 
 .jumbo_caption {
     width: 100%;
     margin: 0 0 30px 0;
+    text-align: justify;
 }
 
 .bottom-wrapper {
@@ -373,12 +401,12 @@ body {}
 .more {
     display: flex;
     flex-direction: column;
-    align-items: center;    
+    align-items: center;
 }
 
 .more-title {
     margin-left: -610px;
-} 
+}
 
 .more-grid {
     display: grid;
@@ -400,10 +428,18 @@ body {}
 
 .fig-wrapper {
     display: flex;
-    flex-direction: row;
 }
 
 .fig-wrapper img {
+    width: 100%;
+    padding: 0 10px 0 0;
+}
+
+.fig_adjust {
+    margin-right: 10px;
+}
+
+.img-bottom {
     width: 100%;
 }
 
@@ -418,14 +454,14 @@ body {}
     color: #121212;
     font-family: georgia, "times new roman", times, serif;
     font-size: 15px;
-    font-weight: 500;    
+    font-weight: 500;
     padding-bottom: 10px;
 }
 
 .most-popular div {
     margin-top: 10px;
-    margin-bottom: 10px;     
-    line-height: 20px;   
+    margin-bottom: 10px;
+    line-height: 20px;
 }
 
 .test:after {
@@ -454,6 +490,7 @@ body {}
     border-top: 2px inset;
     margin: 50px 100px 40px 100px;
     padding-top: 20px;
+    width: 80%;
 }
 
 .footer_wrapper h4 {
@@ -471,8 +508,8 @@ body {}
 }
 
 .custom_footer {
-    align-items: start;
     display: flex;
+    width: 100%;
     align-content: right;
     justify-content: space-between;
 }
@@ -501,8 +538,17 @@ body {}
     font-weight: 900;
 }
 
+.col small {
+    font-weight: lighter;
+    line-height: 5em;
+}
+
 .foot_6 hr {
     color: #ccc;
+}
+
+.hr {
+    margin-top: 50px;
 }
 
 .foot_logo {
@@ -514,8 +560,10 @@ body {}
 
 .last_footer {
     display: flex;
-    padding: 50px 100px 15px 100px;
+    margin: 50px 100px 15px 100px;
+    padding: 15px 100px 15px 100px;
     justify-content: space-between;
+    border-top: 0.4px solid #ccc;
 }
 
 .last_footer a {

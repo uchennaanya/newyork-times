@@ -131,13 +131,38 @@ body {}
 }
 
 .details {
-    display: flex;
+    /* display: flex; */
     justify-content: space-between;
 }
 
-.details .socials {
-    flex: 2;
+.details small {
+    font-size: 12px;
+    line-height: 1.5em;
+    margin: 20px 0;
+    display: inline-block;
+}
+
+.socials {
+    display: flex;
     text-align: end;
+}
+
+.socials .icons {
+    flex: 5 0 45%;
+}
+
+.icons i {
+    padding: 0 0 0 20px;
+}
+
+.socials button {
+    background-color: #567B95;
+    border: .5px solid #ccc;
+    border-radius: 5px;
+    padding: .5rem 1rem;
+    color: #fff;
+    font-weight: 900;
+    margin-bottom: 10px;
 }
 
 .details .dates {

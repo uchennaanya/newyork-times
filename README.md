@@ -37,7 +37,7 @@ The features of this project are listed as below:
 
 ## Live Demo
 
-[Live Demo Link]https://rawcdn.githack.com/uchennaanya/newyork-times/1b48aa3341d2cd51e8fad63575b51ea98beb9f6e/index.html)
+[Live Demo Link](https://rawcdn.githack.com/uchennaanya/newyork-times/1b48aa3341d2cd51e8fad63575b51ea98beb9f6e/index.html)
 
 ## Getting Started
 

@@ -55,7 +55,7 @@ The features of this project are listed as below:
 - Twitter: [@henatan99](https://twitter.com/henatan99)
 - LinkedIn: [Henok Mossissa](https://www.linkedin.com/in/henok-mekonnen-2a251613/)
 
-👤 **Dipesh Bajgain**
+👤 **Uchenna Anya**
 
 - GitHub: [@uchennaanya](https://github.com/uchennaanya)
 - Twitter: [@martinsanya19](https://twitter.com/martinsanya19)

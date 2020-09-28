@@ -14,7 +14,7 @@ This project is about building an article page cloned from the newyork times art
 - It has embedded images and video
 
 
-![screenshot](./assets/images/thetimesscreenshot.png)
+![screenshot](./assets/images/screenshot.png)
 
 The features of this project are listed as below:
 
@@ -38,7 +38,11 @@ The features of this project are listed as below:
 
 ## Live Demo
 
+<<<<<<< HEAD
 [Live Demo Link](file:///E:/Microverse/the-odin-project/newyork-times/index.html#)
+=======
+[Live Demo Link](https://rawcdn.githack.com/uchennaanya/newyork-times/52d4e9bf785c765837b55b1752362d884d907b5c/index.html)
+>>>>>>> a98662c6d022f392b0a8d7e1422c35e673489652
 
 ## Getting Started
 

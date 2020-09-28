@@ -13,7 +13,7 @@ This project is about building an article page cloned from the newyork times art
 - It has articles
 - It has embedde images and video
 
-![screenshot](./assets/images/thetimesscreenshot.png)
+![screenshot](./assets/images/screenshot.png)
 
 The features of this project are listed as below:
 

@@ -13,7 +13,7 @@ This project is about building an article page cloned from the newyork times art
 - It has articles
 - It has embedde images and video
 
-![screenshot](./assets/images/thetimesscreenshot.png)
+![screenshot](./assets/images/screenshot.png)
 
 The features of this project are listed as below:
 
@@ -37,7 +37,7 @@ The features of this project are listed as below:
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/uchennaanya/newyork-times/1b48aa3341d2cd51e8fad63575b51ea98beb9f6e/index.html)
+[Live Demo Link](https://rawcdn.githack.com/uchennaanya/newyork-times/140204f302dc8230e9bb313285daa8348c61d66c/index.html)
 
 ## Getting Started
 

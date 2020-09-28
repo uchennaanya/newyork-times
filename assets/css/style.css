@@ -4,6 +4,11 @@
   padding: 0;
 }
 
+.headings{
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
 .header {
   display: flex;
   border-bottom: 0.5px solid gainsboro;
@@ -510,11 +515,13 @@
 }
 
 .last_footer {
-  display: flex;
-  margin: 0 0 15px 0;
+  display: flex;  
   padding: 15px 50px 15px 50px;
   justify-content: space-between;
   border-top: 0.4px solid #ccc;
+  position: fixed;
+  bottom: 0;
+  background-color: #ffffff;
 }
 
 .last_footer a {

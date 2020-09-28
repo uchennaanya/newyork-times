@@ -63,14 +63,13 @@
 }
 
 .article_editors_pic {
-    margin: 0 30px 0 300px;
+    margin: 0 30px 0 335px;
     color: #000;
 }
 
 .col a {
     text-decoration: none;
     color: #000;
-    padding-top: 0px;
 }
 
 .pic_names {
@@ -100,7 +99,7 @@
 }
 
 .editors_aside {
-    width: 270px;
+    width: 250px;
     margin: 150px 80px 0 0;
     font-size: 16px;
 }
@@ -110,8 +109,8 @@
 }
 
 .editors_pic img {
-    height: 100px;
-    width: 100px;
+    height: 90px;
+    width: 90px;
 }
 
 .title {
@@ -493,7 +492,6 @@
 
 .footer_col_2 {
     width: 200px;
-    padding-bottom: 20px;
     font-weight: bolder;
     font-size: smaller;
 }
@@ -530,8 +528,8 @@
 
 .last_footer {
     display: flex;
-    margin: 50px 100px 15px 100px;
-    padding: 15px 100px 15px 100px;
+    margin: 0 0 15px 0;
+    padding: 15px 50px 15px 50px;
     justify-content: space-between;
     border-top: 0.4px solid #ccc;
 }
@@ -539,5 +537,6 @@
 .last_footer a {
     text-decoration: none;
     font-size: 12px;
-    color: #000;
+    padding: 0 15px 0 0;
+    color: dimgray;
 }

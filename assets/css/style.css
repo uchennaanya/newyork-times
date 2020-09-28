@@ -6,7 +6,7 @@
 
 .header {
     display: flex;
-    border-bottom: .5px solid gainsboro;
+    border-bottom: 0.5px solid gainsboro;
     padding: 5px 20px;
     justify-content: space-between;
     align-items: center;
@@ -22,8 +22,8 @@
 .header button {
     background-color: #326891;
     color: #fff;
-    border: .5px solid #000;
-    padding: .6rem 1rem;
+    border: 0.5px solid #000;
+    padding: 0.6rem 1rem;
     border-radius: 4px;
     font-size: x-small;
     font-weight: bolder;
@@ -209,10 +209,10 @@
 }
 
 .socials button {
-    background-color: #567B95;
-    border: .5px solid #ccc;
+    background-color: #567b95;
+    border: 0.5px solid #ccc;
     border-radius: 5px;
-    padding: .5rem 5rem;
+    padding: 0.5rem 5rem;
     color: #fff;
     font-weight: 900;
     margin-bottom: 10px;
@@ -284,7 +284,7 @@
 
 .advert {
     width: 100%;
-    background-color: #F8F8F8;
+    background-color: #f8f8f8;
     height: 300px;
     margin: 30px 0;
 }
@@ -434,15 +434,6 @@
     line-height: 20px;
 }
 
-.test:after {
-    content: "";
-    width: 100%;
-    height: 1px;
-    background: #d2d1d1;
-    position: absolute;
-    bottom: 3px;
-}
-
 .popular-font {
     font-family: sans-serif;
     margin-top: 20px;
@@ -479,7 +470,6 @@
 .custom_footer {
     display: flex;
     width: 100%;
-    align-content: right;
     justify-content: space-between;
 }
 
@@ -523,7 +513,6 @@
     width: 15px;
     margin-right: 5px;
     height: 16px;
-
 }
 
 .last_footer {

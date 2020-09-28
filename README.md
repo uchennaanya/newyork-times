@@ -4,14 +4,15 @@
 
 ## Definition
 
-This is a clone of the new York times news paper developed by Uchenna Martins Anya and Henoks Mossissa, the project is one of the projects in the CSS and HTML curriculum, we used HTML5 and Vanilla CSS3 we also used Linters.
+This project is about cloning the newyork times article page. It has title of the article shown very bold and discriptive picture. Other images and videos are also embedded inside the article. Positioning and floating elements are properly used along with aside elements. Many features of the page are discussed in upcoming section. 
 
 ## About the Project
 
 This project is about building an article page cloned from the newyork times article page [The newyork times: space and cosmos](https://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0)
 
 - It has articles
-- It has embedde images and video
+- It has embedded images and video
+
 
 ![screenshot](./assets/images/screenshot.png)
 
@@ -37,7 +38,11 @@ The features of this project are listed as below:
 
 ## Live Demo
 
+<<<<<<< HEAD
+[Live Demo Link](file:///E:/Microverse/the-odin-project/newyork-times/index.html#)
+=======
 [Live Demo Link](https://rawcdn.githack.com/uchennaanya/newyork-times/52d4e9bf785c765837b55b1752362d884d907b5c/index.html)
+>>>>>>> a98662c6d022f392b0a8d7e1422c35e673489652
 
 ## Getting Started
 

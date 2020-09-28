@@ -35,9 +35,9 @@
 }
 
 .search-btn {
-  border: none !important;
-  color: #000 !important;
-  background-color: transparent !important;
+  border: none;
+  color: #000;
+  background-color: transparent;
 }
 
 .header .col_1 {

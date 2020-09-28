@@ -38,7 +38,7 @@ The features of this project are listed as below:
 
 ## Live Demo
 
-[Live Demo Link](file:///E:/Microverse/the-odin-project/newyork-times/index.html#)
+[Live Demo Link](https://raw.githack.com/uchennaanya/newyork-times/featured-branch/index.html) 
 
 ## Getting Started
 
